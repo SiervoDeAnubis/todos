@@ -1,6 +1,6 @@
 # Todo Cli App
 
-** Todo CLI App usign node for studying **
+**Todo CLI App usign node for studying**
 
 ## Todo CLI App
 
